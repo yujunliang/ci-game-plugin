@@ -135,7 +135,7 @@
     <dependency>
       <groupId>org.jvnet.hudson.plugins</groupId>
       <artifactId>warnings</artifactId>
-      <version>3.0</version>
+      <version>3.13</version>
       <optional>true</optional>
     </dependency>
     <dependency>
