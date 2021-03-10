@@ -117,7 +117,7 @@
     <dependency>
       <groupId>org.jvnet.hudson.plugins</groupId>
       <artifactId>violations</artifactId>
-      <version>0.5.4</version>
+      <version>0.7.7</version>
       <optional>true</optional>
     </dependency>
     <dependency>
