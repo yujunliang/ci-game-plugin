@@ -129,7 +129,7 @@
     <dependency>
       <groupId>org.jvnet.hudson.plugins</groupId>
       <artifactId>pmd</artifactId>
-      <version>3.1</version>
+      <version>3.12</version>
       <optional>true</optional>
     </dependency>
     <dependency>
