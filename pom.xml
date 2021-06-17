@@ -123,7 +123,7 @@
     <dependency>
       <groupId>org.jvnet.hudson.plugins</groupId>
       <artifactId>tasks</artifactId>
-      <version>4.0</version>
+      <version>4.13</version>
       <optional>true</optional>
     </dependency>
     <dependency>
